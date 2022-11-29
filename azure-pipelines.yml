@@ -14,4 +14,4 @@ steps:
 - script: |
            curl -O https://downloads.lambdatest.com/hyperexecute/windows/hyperexecute.exe
            
-           hyperexecute.exe -u $(lt_username) -k $(lt_accessKey) -i hyperexecuteStatic.yaml --verbose
+           hyperexecute.exe -u neerajn -k J3zIzXZfnxcFZDjaG5SmRb9cIUjoRtjzcX5fPsQcWxVkxBX3Lf -i hyperexecuteStatic.yaml --verbose
