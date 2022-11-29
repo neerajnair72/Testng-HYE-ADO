@@ -85,7 +85,7 @@
             <class name="Uploadtest"/>
         </classes>
     </test>
-    <test name="70">
+<!--     <test name="70">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="29.0"/>
         <parameter name="platform" value="Win10"/>
@@ -97,9 +97,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="71">
+<!--     <test name="71">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="28.0"/>
         <parameter name="platform" value="Win10"/>
@@ -153,9 +153,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="75">
+<!--     <test name="75">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="61.0"/>
         <parameter name="platform" value="Win10"/>
@@ -292,9 +292,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="91">
+<!--     <test name="91">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="73.0"/>
         <parameter name="platform" value="Win10"/>
@@ -404,9 +404,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="99">
+<!--     <test name="99">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="75.0"/>
         <parameter name="platform" value="Win10"/>
@@ -488,9 +488,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="105">
+<!--     <test name="105">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="16.0"/>
         <parameter name="platform" value="Win10"/>
@@ -531,8 +531,8 @@
             <class name="Uploadtest"/>
         </classes>
     </test>
-
-    <test name="108">
+ -->
+<!--     <test name="108">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="15.0"/>
         <parameter name="platform" value="Win10"/>
@@ -545,9 +545,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="109">
+<!--     <test name="109">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="17.0"/>
         <parameter name="platform" value="Win10"/>
@@ -559,9 +559,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="110">
+<!--     <test name="110">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="16.0"/>
         <parameter name="platform" value="Win10"/>
@@ -573,9 +573,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="111">
+<!--     <test name="111">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="11.0"/>
         <parameter name="platform" value="Win10"/>
@@ -588,9 +588,9 @@
 
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="112">
+<!--     <test name="112">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="15.0"/>
         <parameter name="platform" value="Win10"/>
@@ -616,9 +616,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="114">
+<!--     <test name="114">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="17.0"/>
         <parameter name="platform" value="Win10"/>
@@ -630,8 +630,8 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
-    <test name="115">
+    </test> -->
+<!--     <test name="115">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="17.0"/>
         <parameter name="platform" value="Win10"/>
@@ -643,8 +643,8 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
-    <test name="116">
+    </test> -->
+<!--     <test name="116">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="17.0"/>
         <parameter name="platform" value="Win10"/>
@@ -656,8 +656,8 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
-    <test name="117">
+    </test> -->
+<!--     <test name="117">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="17.0"/>
         <parameter name="platform" value="Win10"/>
@@ -669,8 +669,8 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
-    <test name="118">
+    </test> -->
+<!--     <test name="118">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="17.0"/>
         <parameter name="platform" value="Win10"/>
@@ -682,9 +682,9 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 
-    <test name="119">
+<!--     <test name="119">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="17.0"/>
         <parameter name="platform" value="Win10"/>
@@ -696,8 +696,8 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
-    <test name="120">
+    </test> -->
+<!--     <test name="120">
         <parameter name="browser" value="Chrome"/>
         <parameter name="version" value="17.0"/>
         <parameter name="platform" value="Win10"/>
@@ -709,5 +709,5 @@
         <classes>
             <class name="Uploadtest"/>
         </classes>
-    </test>
+    </test> -->
 </suite>
